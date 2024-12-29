@@ -1,7 +1,7 @@
 {
     "title": "Mis Gadgets",
     "description": "Descubre mi colección personal de gadgets para el escritorio",
-    "tags": ["Accesorios", "Alimentación"],
+    "tags": ["Accesorios", "Alimentación", "Almacenamiento", "Audio", "Gaming"],
     "content": [
         {
             "title": "Cargador Mini USB-C 30W",
@@ -18,6 +18,30 @@
             "tags": ["Accesorios"],
             "cover": "https://http2.mlstatic.com/D_NQ_NP_2X_767915-MLA74129786560_012024-F.webp",
             "link": "https://mercadolibre.com/sec/12XyuFS"
+        },
+        {
+            "title": "Disco Duro externo 2TB",
+            "subtitle": "ADATA",
+            "description": "Disco duro externo Adata HD710 Pro AHD710P-2TU31 2TB",
+            "tags": ["Almacenamiento"],
+            "cover": "https://http2.mlstatic.com/D_NQ_NP_2X_612859-MLA45268985463_032021-F.webp",
+            "link": "https://mercadolibre.com/sec/1q29D2E"
+        },
+        {
+            "title": "Auriculares in-ear gamer",
+            "subtitle": "KZ",
+            "description": "Auriculares in-ear KZ Auriculares con cable ZSN Pro con micrófono",
+            "tags": ["Accesorios", "Audio"],
+            "cover": "https://http2.mlstatic.com/D_NQ_NP_2X_760774-MLU77557549355_072024-F.webp",
+            "link": "https://mercadolibre.com/sec/2C81o6s"
+        },
+        {
+            "title": "Control Xbox Series X/S/One",
+            "subtitle": "Microsoft",
+            "description": "Control Xbox Series X/S/One Wireless Carbon Black",
+            "tags": ["Accesorios", "Gaming"],
+            "cover": "https://http2.mlstatic.com/D_NQ_NP_2X_606887-MLU78270945087_082024-F.webp",
+            "link": "https://mercadolibre.com/sec/1MosErs"
         }
     ]
 }

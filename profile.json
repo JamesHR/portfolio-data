@@ -1,0 +1,28 @@
+{
+    "name": "Jaime HR",
+    "description": "Primero café ☕, luego programo (a veces). ¿Ya mencioné lo del café?",
+    "social": [],
+    "sections": [
+        {
+            "name": "Gaming",
+            "title": "¡Listos para jugar!",
+            "icon": "gamepad-2",
+            "description": "Cada juego tiene una historia. Descubre mi colección",
+            "buttonLabel": "Ver recomendaciones"
+        },
+        {
+            "name": "Gadgets",
+            "title": "Mi Setup",
+            "icon": "laptop",
+            "description": "Mi rincón tech: gadgets que uso y recomiendo para mejorar tu espacio.",
+            "buttonLabel": "Ver Gadgets"
+        },
+        {
+            "name": "Library",
+            "title": "Mi Biblioteca",
+            "icon": "library-big",
+            "description": "Descubre mi colección personal de libros",
+            "buttonLabel": "Ver biblioteca"
+        }
+    ]
+}

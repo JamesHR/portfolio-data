@@ -1,6 +1,23 @@
 {
     "title": "Mis Gadgets",
     "description": "Descubre mi colección personal de gadgets para el escritorio",
-    "tags": [],
-    "content": []
+    "tags": ["Accesorios", "Alimentación"],
+    "content": [
+        {
+            "title": "Cargador Mini USB-C 30W",
+            "subtitle": "UGreen",
+            "description": "Cargador Mini GaNRobot 30W serie Nexode 1 USB-C de Carga Rápida",
+            "tags": ["Accesorios", "Alimentación"],
+            "cover": "https://http2.mlstatic.com/D_NQ_NP_2X_955719-MLU79154102262_092024-F.webp",
+            "link": "https://mercadolibre.com/sec/2kvgAmJ"
+        },
+        {
+            "title": "Adaptador USB-C Hub",
+            "subtitle": "UGreen",
+            "description": "Adaptador USB-C Hub 5 En 1, 1 Hdmi 4k, 3 Usb, 1 Type-c 100w",
+            "tags": ["Accesorios"],
+            "cover": "https://http2.mlstatic.com/D_NQ_NP_2X_767915-MLA74129786560_012024-F.webp",
+            "link": "https://mercadolibre.com/sec/12XyuFS"
+        }
+    ]
 }

@@ -1,7 +1,13 @@
 {
     "name": "Jaime HR",
     "description": "Primero café ☕, luego programo (a veces). ¿Ya mencioné lo del café?",
-    "social": [],
+    "social": [
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/soyjaimehernandez/",
+            "icon": "instagram"
+        }
+    ],
     "sections": [
         {
             "name": "Gaming",
